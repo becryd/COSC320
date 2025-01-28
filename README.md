@@ -1,5 +1,5 @@
 # `COSC320`
-<mark>`COSC 320 lab exercises`</mark> <br>
+<font size="5"><mark>`COSC 320 lab exercises`</mark></font> <br>
 *Brought to you by* `Meera Alhammadi 100060477` :sparkles:
 <br> <br>
 (ง •_•)ง
