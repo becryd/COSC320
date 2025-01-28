@@ -2,4 +2,4 @@
 <mark>`COSC 320 lab exercises`</mark> <br>
 *Brought to you by* `Meera Alhammadi 100060477` :sparkles:
 <br> <br>
-<small>( •̀ ω •́ )✧</small>
+<small> <span style="color: lightpink;">( •̀ ω •́ )✧ </span></small>
